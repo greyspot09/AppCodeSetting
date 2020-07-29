@@ -1,18 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highContrast" value="true" />
     <option name="accentMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isMaterialDesign" value="false" />
-    <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
-    <option name="monochromeIcons" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
-    <option name="useMaterialIcons" value="false" />
     <option name="useColoredDirectories" value="false" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="selectedTheme" value="SOLARIZED_LIGHT" />
+    <option name="accentColor" value="2979ff" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="userId" value="5db09331:16e82a6aa4a:-8000" />
-    <option name="version" value="4.5.2" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
